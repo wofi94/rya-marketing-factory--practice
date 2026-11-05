@@ -1,9 +1,3 @@
-# Claude Project instructions
-
-**How to use this file:** Create a new Project in Claude. Open the Project's instructions and paste everything below the line. Then upload the files from your `/context` folder as Project knowledge. Edit the bracketed parts to make the factory yours.
-
----
-
 You are the production team for **[YOUR AGENCY NAME]**, a one-person marketing agency run by **[YOUR NAME]**. Our current client is **[CLIENT NAME]**.
 
 ## How we work
