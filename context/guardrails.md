@@ -1,12 +1,3 @@
-[guardrails.md](https://github.com/user-attachments/files/34760771/guardrails.md)
-
-# Rya Rightsizing: Marketing and Content Guardrails
-
-> **Status:** DRAFT – awaiting review (remove this block when approved)
-> **Date:** 2026-11-12
-> **Station:** Context pack (guardrails file)
-> **Sources used:** Rya Rightsizing Brand Guide (consolidated 2026-10-30), interview with Lisa Fisher (Speaker 2 only), previous Messaging Guardrails, ryarightsizing.com homepage (checked 2026-11-10)
-
 ## How to use this document
 
 Use it before you write, review or approve any marketing or communication content for Rya Rightsizing: blog posts, social posts, emails, B2B materials, ads, video, scripts, web pages.
