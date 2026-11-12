@@ -1,5 +1,3 @@
-[personas.md](https://github.com/user-attachments/files/34759393/personas.md)
-Version: [PLACEHOLDER – sync from team repo]
 
 # Personas
 
@@ -18,6 +16,8 @@ Version: [PLACEHOLDER – sync from team repo]
 | Influences the decision | Referral partners: realtors, estate lawyers, seniors' residences, nurses, social workers, community organizations | Recommending someone reliable who protects their own reputation |
 
 ## Market snapshot
+Internal research only. Don't use these figures in copy without a linkable source.
+
 - **Category:** senior move management. An established but small profession with low awareness; NASMM lists only three BC members (NASMM, 2026).
 - **Local context:** 28.5% of West Vancouver residents are 65+ (vs. 19.0% nationally) and 56% of homeowners are mortgage-free, the highest in BC. 64% of homes are single-family, and over half of households have no children at home (District of West Vancouver, 2025; North Shore News).
 - **Alternatives a buyer considers:**
@@ -51,7 +51,7 @@ Version: [PLACEHOLDER – sync from team repo]
   - A complimentary consultation, in-home or virtual, that feels like a conversation rather than a commitment
   - One local liaison who keeps the whole family informed
   - Clear, transparent pricing in three-hour blocks of time or more
-  - Belongings going to local donations, not landfill
+  - Belongings going to local donations, with as little as possible going to landfill
 - **Where she looks for help:** Google and AI search ("how to talk to my parent about downsizing," "downsizing help West Vancouver"), her parent's realtor or residence, friends who have been through it, Facebook and Instagram (assumption – validate with client).
 - **In her words:**
   - "Every time I bring up the house, Mom changes the subject."
