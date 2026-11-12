@@ -1,4 +1,3 @@
-[voice-and-tone.md](https://github.com/user-attachments/files/34759424/voice-and-tone.md)
 # Voice and tone: Rya Rightsizing
 
 ## How to use this file
@@ -64,10 +63,10 @@ Personas are in context/personas.md.
 
 | Audience | Tone | Lead with | Avoid |
 |---|---|---|---|
-| **Michelle, the adult child** (decides and pays) | Reassuring, efficient, communicative | "Your trusted local liaison when you can't be there in person." Her parent stays in charge; one point of contact | Guilt about distance; fear about her parent's safety |
+| **Michelle, the adult child** (decides and pays) | Reassuring, efficient, communicative | The workload taken off her plate, one point of contact, her parent in charge of every decision. Supporting line: "Your trusted local liaison when you can't be there in person." | Guilt about distance; fear about her parent's safety |
 | **The senior** (person at the centre; final say) | Respectful, unhurried, hopeful | "Keep what matters. Move forward with confidence." Their choices, memories and pace | Talking down; implying they can't cope; "elderly," "frail" |
 | **David, the realtor** (referral partner) | Clear, professional, confident | Reliability, one liaison, working around the listing date, Lisa's background, testimonials | Hype; anything that could reflect badly on his client |
-| **Estate lawyers, executors and grieving families** | Quiet, tender, patient | "Kind, organized help clearing a loved one's home, with as little as possible going to landfill." | Speed words, urgency, promotion |
+| **Estate lawyers, executors and grieving families** | Quiet, tender, patient | "Kind, organized help sorting and passing on a loved one's belongings, with as little as possible going to landfill." | Speed words, urgency, promotion |
 | **Community partners** (senior living, non-profits, health workers) | Community-minded, collaborative | Shared care for seniors, local donations, Lisa's board roles | Corporate jargon |
 
 ## Tone by channel
@@ -118,7 +117,7 @@ Note: "junk removal" is fine as the name of a service type, never to describe so
   - IG bio: Compassionate rightsizing and downsizing support for seniors and families in North & West Vancouver and the Sea to Sky.
   - Adult child: Your trusted local liaison when you can't be there in person.
   - Senior: Keep what matters. Move forward with confidence.
-  - Estate: Kind, organized help clearing a loved one's home, with as little as possible going to landfill.
+  - Estate: Kind, organized help sorting and passing on a loved one's belongings, with as little as possible going to landfill.
 - **CTAs:**
   - Book your complimentary consultation (primary; add "in-home or virtual" where space allows)
   - Let's talk about your family's move
