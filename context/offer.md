@@ -1,5 +1,3 @@
-[offer.md](https://github.com/user-attachments/files/34759382/offer.md)
-Version: Offer.md
 
 # Offer
 Compassionate rightsizing, downsizing + move services for seniors.
@@ -27,17 +25,16 @@ Rya offers the following services:
 
 ### B. Senior Move Management
 - Coordinating moving arrangements.
-- Assisting with packing and moving preparation.
+- Coordinating and overseeing packing and moving preparation.
 - Coordinating movers and other service providers.
 - Providing guidance throughout the moving process.
 
 ### C. Decluttering and Home Organization
-- Organizing very full homes.
 - Sorting belongings room by room.
 - Identifying meaningful items and keepsakes.
 - Finding suitable local donation opportunities.
 
-### D. Estate and Home Clearing Support
+### D. Estate Support
 - Assisting families with a loved one's belongings.
 - Organizing and sorting items during estate transitions.
 - Coordinating donations, recycling and responsible disposal.
@@ -52,7 +49,7 @@ Rya follows a transparent and flexible pricing structure.
 | Initial consultation | Complimentary |
 | Consultation format | In-home or virtual |
 | Complimentary resource | Making Space for What Matters guide |
-| Hourly investment | Starting at $80/hour per specialist |
+| Hourly investment | From $80/hour per specialist |
 | Service blocks | Three-hour blocks of time or more |
 | Support duration | Short-term or longer-term |
 | Family communication | Dedicated family liaison |
