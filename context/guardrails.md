@@ -1,8 +1,9 @@
-[marketing-content-guardrails.md](https://github.com/user-attachments/files/34759354/marketing-content-guardrails.md)
+[guardrails.md](https://github.com/user-attachments/files/34760771/guardrails.md)
+
 # Rya Rightsizing: Marketing and Content Guardrails
 
 > **Status:** DRAFT – awaiting review (remove this block when approved)
-> **Date:** 2026-11-10
+> **Date:** 2026-11-12
 > **Station:** Context pack (guardrails file)
 > **Sources used:** Rya Rightsizing Brand Guide (consolidated 2026-10-30), interview with Lisa Fisher (Speaker 2 only), previous Messaging Guardrails, ryarightsizing.com homepage (checked 2026-11-10)
 
@@ -43,14 +44,14 @@ If this document and the Brand Book ever conflict, stop and flag it. Do not pick
 - **Founder story and credentials, as written in the Brand Book only:** Lisa's background in education and student support, her board roles, and the story of Raija and the meaning of the name. `[Brand Book]`
 - **Service area:** "North & West Vancouver and the Sea to Sky corridor," with an office in Squamish. Never "Metro Vancouver." `[Brand Book]` `[Team]`
 - **Nothing to prepare:** clients do not need to do anything before working with Rya. `[Lisa]`
-- **Testimonials:** only the three listed in the Brand Book, in the exact words published on the website, with the name as published. See section 2 for the permission status. `[Brand Book]`
+- **Testimonials:** the three listed in the Brand Book may be used in any Rya material (referral kit, ads, email, social), in the exact words published on the website, with the name as published. See section 2 for permission. `[Brand Book]` `[Team]`
 
 ### Not allowed
 
 - **Invented content of any kind:** results, testimonials, credentials, certifications, statistics, client experiences, awards, press mentions. `[Team]`
 - **Credential and trust words:** "certified," "accredited," "licensed," "bonded," "insured," "background-checked," "vetted." Lisa is not certified and not bonded. The team has decided not to promote insurance, and nothing on file covers a criminal record check. `[Lisa]` `[Team]`
 - **"Senior Move Manager" as a title** for Lisa or Rya. Lisa said NASMM has copyrighted the term and that she has not done the certification. The title could read as a credential Rya does not hold. This document does not verify the trademark point. Use "senior move management" to describe the *service*, which also separates Rya from companies that only move. `[Lisa]` `[Practice]`
-- **Services Rya does not offer:** packing (Rya oversees packing), packing medicine, companionship or driving to appointments, and selling belongings for clients. `[Lisa]` `[Team]`
+- **Services Rya does not offer:** packing (Rya oversees packing), packing medicine, and companionship or driving to appointments. `[Lisa]` `[Team]`
 - **Hoarding as a service:** no claim that Rya handles hoarding situations. Nothing on file says whether it does. The Brand Book covers *tone* for very full homes, not a service offer. `[Brand Book]` `[Team]`
 - **Volume or track record:** "families we've helped," "trusted by," client counts, years of client experience. Rya has a small number of clients so far. `[Team]`
 - **Fixed timelines or set packages:** "3-day declutter package," "flat-rate move." Lisa has not set up packages yet. `[Lisa]`
@@ -68,6 +69,7 @@ If this document and the Brand Book ever conflict, stop and flag it. Do not pick
 | A new testimonial or review quote | Written permission from the person, and their exact words (see section 2) `[Practice]` |
 | A new credential, insurance or trust claim | The document or proof in hand, then owner approval `[Practice]` |
 | Any claim in B2B materials (for example benefits to realtors) | The same evidence rule as above `[Practice]` |
+| Selling belongings for a client | Say nothing proactive. It is an extra Lisa can discuss case by case, not a core service. Don't advertise it or list it as a service. `[Team]` |
 
 ### When supporting information is missing
 
@@ -111,7 +113,8 @@ Written permission from the client is required before using any real client's **
 - **Reviews and testimonials: first name only.** No last name and no town, unless the person asks otherwise in writing. They approve their exact words. Existing testimonials stay as published (see below). `[Team]` `[Practice]`
 - **Permission should record** what content, which channels, and how the name appears. Keep a copy with the content files, as the Brand Book already requires for photos. `[Brand Book]` `[Practice]`
 - **Anonymizing does not remove the need for permission.** Rya works in small communities where a few details identify a family. Lisa herself said she lives in a small town. `[Lisa]` `[Practice]`
-- **Existing material:** written permission is not confirmed in the files for the three Brand Book testimonials or for the October photos of the client in the session and B-roll shots. Until permission is on file, use them only where they already appear, unchanged. Create no new uses. `[Brand Book]` `[Practice]`
+- **Existing testimonials:** the three Brand Book testimonials can be used freely in their published words and names. Written permission is not confirmed in the files. `[NEEDS CLIENT INPUT: written permission from Bronwyn, Tanya and Joe, kept with the content files. Lisa to collect.]` `[Team]`
+- **Existing photos:** written permission is not confirmed for the October photos of the client in the session and B-roll shots. Until it is on file, use them only where they already appear, unchanged. Create no new uses. `[Brand Book]` `[Practice]`
 
 ### Not allowed
 
@@ -222,7 +225,7 @@ Voice and tone have their own document. Follow it. Until it is in the repository
 
 1. Every claim matches the Brand Book or this document.
 2. No banned words (the voice and tone document, plus the lists above).
-3. No real client name, voice, photo, video, quote or story without written permission on file. The client's face never appears.
+3. No real client name, voice, photo, video, quote or story without written permission on file. The client's face never appears. The three existing testimonials are the one exception while Lisa collects permission.
 4. No credential, insurance, volume or "first/best" claim.
 5. No AI-generated Lisa, no AI-written testimonial, and no AI visual presented as a real client or real Rya work.
 6. Consultation is "complimentary," price is "from $80/hr," time is "three-hour blocks of time or more."
